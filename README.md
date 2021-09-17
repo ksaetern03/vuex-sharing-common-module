@@ -1,4 +1,4 @@
-# vue-sandbox
+# Design Pattern for Sharing Common Store Module
 
 ## Project setup
 ```
